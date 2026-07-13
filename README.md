@@ -109,6 +109,7 @@ medicitas-ia/
 │   ├── documentacion-tecnica.md
 │   └── prompt-openai.md
 ├── .gitignore
+├── CHANGELOG.md
 ├── DISCLAIMER.md
 ├── GITHUB.md
 ├── SECURITY.md
@@ -276,6 +277,7 @@ Las pruebas cubren:
 - [Documentación técnica](docs/documentacion-tecnica.md)
 - [Casos de prueba](docs/casos-de-prueba.md)
 - [Prompt de OpenAI](docs/prompt-openai.md)
+- [Historial de cambios](CHANGELOG.md)
 - [Política de seguridad](SECURITY.md)
 - [Aviso y limitaciones](DISCLAIMER.md)
 
